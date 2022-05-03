@@ -1,6 +1,6 @@
 # Instrucciones
 
-## Ejecución con DOCKER RUN
+## Ejecución con DOCKER RUN.
 
 El siguiente repositorio crea una imagen php5.4 con OCI8 de ORACLE y las extensiones de php: gd mbstring pdo_mysql mysqli mysql.
 
